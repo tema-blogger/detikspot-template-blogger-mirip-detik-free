@@ -1,4 +1,4 @@
-DetikSpot Free v1.1.14
+DetikSpot Free v1.1.15
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
