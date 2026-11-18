@@ -13,6 +13,10 @@ Template Blogger mirip detik.com. Edisi Free untuk mencoba tampilan dan pengelol
 - [Beli DetikSpot Premium](https://www.temablogger.com/2026/10/detikspot-template-blogger-mirip-detik.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
 
+## Dukung developer
+
+Jika tema ini bermanfaat, beri ⭐ Star pada [repositori ini](https://github.com/tema-blogger/detikspot-template-blogger-mirip-detik-free) dan bagikan tautannya kepada pengguna Blogger lain. Dukungan Anda membantu pengembangan tema gratis. Terima kasih sudah menghargai karya developer; semoga bermanfaat dan membawa berkah.
+
 ## Fitur tampilan
 
 - Portal berita dengan menu kategori
